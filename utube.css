@@ -1,0 +1,20 @@
+#head1 {
+    text-align: center;
+}
+body {
+    background-image: url('FB_IMG_16049336332505909.jpg');
+    
+}
+.container {
+    background-color: rgb(192, 147, 166);
+    opacity: 75%;
+    font-size: 13pt;
+    font-family: cursive;
+    color: rgb(8, 7, 8);
+}
+#l1 {
+    color: red;
+}
+#pic1 {
+    border-radius: 20pt;
+}
